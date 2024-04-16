@@ -1,1 +1,5 @@
-# Mental_health_analysis
+# Depression and Mental Health Data Analysis
+
+The "Depression and Mental Health Data Analysis" project aims to leverage the RHMCD-20 dataset to gain deeper insights into the mental health status of individuals across diverse demographics. The dataset, sourced from various backgrounds including teenagers, college students, housewives, and professionals, encompasses key survey questions related to age, gender, occupation, quarantine experiences, and mental health history. The objective of this machine learning project is to analyze the dataset comprehensively, identify significant patterns, and develop a predictive model to understand the factors influencing depression and mental health challenges.
+
+The project involves exploratory data analysis to uncover correlations between different variables and their impact on mental well-being. It will also include the development of a machine learning model that can predict the likelihood of depression based on the provided features. The model's interpretability will be crucial in understanding the key factors contributing to mental health struggles in various segments of the population.
